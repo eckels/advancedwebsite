@@ -72,6 +72,7 @@ p {
   font-size: 80px;
   font-weight: bold;
   position: absolute;
+  text-shadow: 2px 2px 0 white;
 }
 
 .bob1 p {
