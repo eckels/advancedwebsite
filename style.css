@@ -1,3 +1,85 @@
 body {
+  background-color: #FA8072;
+  font-family: 'Poiret One', cursive;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  text-shadow: 2px 2px 0px white;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 8px 12px 8px 12px;
+  background-color: red;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  font-size: 20px;
+}
+
+#bob {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+/* Meat */
+.bob1 {
+  display: inline-block;
+  height: 15px;
+  width: 150px;
+  background-color: #D2691E;
+  margin-right: -10px;
+}
+/* Tomato */
+.bob2 {
+  display: inline-block;
+  height: 15px;
+  width: 150px;
+  background-color: #D2691E;
+  margin-right: -10px;
+}
+/* Cucumber */
+.bob3 {
+  display: inline-block;
+  height: 15px;
+  width: 150px;
+  background-color: #D2691E;
+  margin-right: -10px;
+}
+
+p {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+  margin-top: -40px;
+  margin-left: 20px;
+}
+
+.bob1 p {
+
+}
+
+.bob2 p {
+
+}
+
+.bob3 p {
 
 }
